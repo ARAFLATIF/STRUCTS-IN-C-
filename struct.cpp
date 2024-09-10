@@ -23,7 +23,7 @@ int main() {
     return 0;
 }
 
-//struct with const ructor
+//struct with const ru ctor
 
 #include <iostream>
 #include <string>
