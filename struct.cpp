@@ -1,7 +1,7 @@
 //struct skeleton
 struct StructName {
     // Member variables
-    // Member func tions (o pti onal )
+    // Member functions (o pti onal )
 };
 
 //basic struct
