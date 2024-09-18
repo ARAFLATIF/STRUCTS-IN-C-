@@ -4,7 +4,7 @@ struct StructName {
     // Member functions (o pti onal )
 };
 
-//basic struct
+//basic struc t
 #include <iostream>
 #include <string>
 
